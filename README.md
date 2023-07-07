@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for [Jung Talents](https://www.jungtalents.com/?fbclid=IwAR1wSoRU1awn3PvDY0qQ6EEwsEGBj_g7IW6v48bmOAg7OK4E8ObMGBv6d1M)
 
-- 👨‍💻 All of my projects are available at [https://github.com/quangnguyen201101/SQL-projects](https://github.com/quangnguyen201101/SQL-projects)
+- 👨‍💻 All of my projects are available at [here](https://github.com/quangnguyen201101/SQL-projects)
 
 - 📫 How to reach me **quangnguyen201101@gmail.com or https://www.linkedin.com/in/nguyen-hoang-minh-quang/**
 
